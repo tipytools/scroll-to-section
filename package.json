@@ -1,0 +1,45 @@
+{
+  "name": "scroll-to-section",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "build": "npx babel src -d dist"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0"
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "scroll",
+    "smooth-scroll",
+    "section",
+    "scroll-behavior",
+    "web-development",
+    "user-experience",
+    "mobile-friendly",
+    "responsive",
+    "navigation",
+    "scroll-into-view",
+    "webpage",
+    "UI",
+    "front-end",
+    "development",
+    "accessibility",
+    "component",
+    "library"
+  ],
+  "description": "A React hook for smooth scrolling to specific sections on your webpage, with automatic adaptation for desktop and mobile devices.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipytools/scroll-to-section.git"
+  },
+  "author": "Mauly dotDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tipytools/scroll-to-section/issues"
+  },
+  "homepage": "https://github.com/tipytools/scroll-to-section#readme"
+}
